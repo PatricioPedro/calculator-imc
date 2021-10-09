@@ -1,6 +1,6 @@
-# teste_flutter
+# IMC calcutor
 
-A new Flutter project.
+In this Flutter project, I built a basically IMC calculator
 
 ## Getting Started
 
