@@ -1,4 +1,4 @@
-# IMC calcutor
+# IMC calculator
 
 In this Flutter project, I built a basically IMC calculator
 
